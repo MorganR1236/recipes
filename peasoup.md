@@ -5,3 +5,4 @@
 # Instructions
 - Add undiluted orange squash to a saucepan
 - Boil some water
+- Place pea inside saucepan
