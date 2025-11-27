@@ -4,3 +4,4 @@
 - potatoes £3.00
 # Instructions
 - Boil some water
+- Place pea inside saucepan
